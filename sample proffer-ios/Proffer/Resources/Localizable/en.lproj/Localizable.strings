@@ -1,0 +1,376 @@
+/* 
+ Localizable.strings
+ 
+ //
+ //  Created by AMN on 15/02/2024.
+ //  Copyright © 2024 Nura. All rights reserved.
+ 
+ */
+//MARK:- General
+"Loading..."="Loading...";
+"Done"="Done";
+"Success" = "Success";
+"Error" = "Error";
+//MARK: - static Pages
+"About Us"="About Us";
+"Privacy Policy"="Privacy Policy";
+"Terms & Conditions"="Terms & Conditions";
+
+//MARK: - Contact US
+"Contact Us"="Contact Us";
+"What's Your Needs?!"="What's Your Needs?!";
+"Tell us about your requires or inquires"="Tell us about your requires or inquires";
+"Complaint Title"="Problem Type";
+"Title of complaint"="Title of complaint";
+"Complaint Details"="Message";
+"Title of complaint & Details"="Title of complaint & Details";
+"Send"="Send";
+"Your message was sent successfully."="Your message was sent successfully.";
+"Well Done!"="Well Done!";
+"Please Enter your Name"="Please Enter your Name";
+"Please Enter your Email"="Please Enter your Email";
+"Please Enter Your Message"="Please Enter Your Message";
+
+//MARK: - Change Password
+"Change Password"= "Change Password";
+"Personalize your experience"="Personalize your experience";
+"Old Password"="Old Password";
+"New Password"="New Password";
+"Confirm New Password"="Confirm New Password";
+"Save"="Save";
+"Your password was changed successfully."="Your password was changed successfully.";
+ 
+//MARK: - change password vm
+"Please Enter your Old Password"="Please Enter your Old Password";
+"Please Enter your New Password"="Please Enter your New Password";
+"Please Enter valid Password maximum 6 numbers or letters"="Please Enter valid Password maximum 6 numbers or letters";
+"Please Enter your Confirm New Password"="Please Enter your Confirm New Password";
+"New Password and Confirm New Password don't match"="New Password and Confirm New Password don't match";
+"Your Password has been Changed Successfully"="Your Password has been Changed Successfully";
+
+//MARK: - setting
+"Setting"="Setting";
+"Notification"="Notification";
+"Language"="Language";
+
+//MARK: - change Language
+"Change Language"="Change Language";
+"Please select the language.."="Please select the language..";
+
+//MARK: - FAQ
+"FAQ"="FAQ";
+"No questions yet"="No questions yet";
+
+//MARK: - More
+"Your Profile"="Your Profile";
+"Pending Projects"="Pending Projects";
+"Reviews"="Reviews";
+"Settings"="Settings";
+"Log Out"="Log Out";
+"Confirm Your Action!"="Confirm Your Action!";
+"Are You Sure you want to log out from your account?!"="Are You Sure you want to log out from your account?!";
+"Confirm"="Confirm";
+
+//MARK: - Tab Bar
+"Home"="Home";
+"Projects"="Projects";
+"Bids"="Bids";
+"More"="More";
+
+//MARK: - Projects
+"Current"="Current";
+"History"="History";
+" LE"=" L.E";
+"Waiting for Accepting"="Waiting for Accepting";
+"In progress"="In progress";
+"Done Successfully"="Done Successfully";
+"Canceled"="Canceled";
+//"Add Project"="Add Project";
+"No Projects Added yet"="No Projects Added yet.";
+"M"="m²";
+"New Projects"="New Projects";
+"See All"="See All";
+"Wellcome,"="Welcome,";
+"Present Your Work"="Present Your Work";
+"Clients want to know more about your skills "="Clients want to know more about your skills ";
+"Complete it"="Complete it";
+"Current Projects"="Current Projects";
+"No Current Projects yet"="No Current Projects yet";
+"Top Contractors"="Top Contractors";
+"No results yet."="No results yet.";
+"Private Project" = "Private Project";
+"Public Project" = "Public Project";
+"Your Project Type"="Your Project Type";
+"Define Your Project Type"="Define Your Project Type";
+
+//MARK: - rate Project
+"Ratting"="Ratting";
+"What's your rate?!"="What's your rate?!";
+"Comment"="Comment";
+"Add Your Comments Here"="Add Your Comments Here";
+"Thanks For Your Ratting" = "Thanks For Your \n Ratting";
+
+//MARK: - project details
+
+"Price"="Price";
+"Flat Area"="Flat Area";
+"Day"="Day";
+"Duration"="Duration";
+"Project Area"="Project Area";
+"Project Budget"="Project Budget";
+"From:"="From:";
+"To:"="To:";
+"Rooms Numbers"="Rooms Numbers";
+"Rooms"="Rooms";
+"Cancel"="Cancel";
+"Complete"="Complete";
+"Rate The Service"="Rate The Service";
+"Are You Sure you want to cancel your project?!"="Are You Sure you want to cancel your project?!";
+"Congratulations!"="Congratulations!";
+"Your project was completed successfully."="Your project was completed successfully.";
+"Rate Our Service"="Rate Our Service";
+"Rate It In Anther Time"="Rate It In Anther Time";
+
+//MARK: -  upload image
+"Upload it in format \n PNG, JPG, JPEG" = "Upload it in format \n PNG, JPG, JPEG";
+
+//MARK: -notifications
+"Notifications"="Notifications";
+"Un Read"="Un Read";
+"Old"="Old";
+"Details"="Details";
+
+//MARK: - bids
+"Filter Your Bids"="Filter Your Bids";
+"Filter Your Bids Based on your\n Prefers."="Filter Your Bids Based on your\n Prefers.";
+"Project Name"="Project Name";
+"Filter By Rate" = "Filter By Rate";
+"Filter By Price"="Filter By Price";
+"Accept"="Accept";
+"Bid"="Bid";
+"Project Details"="Project Details";
+"Area"="Area";
+"Contractor Budget"="Contractor Budget";
+"Market Budget"="Market Budget";
+"Now, Your project is ready to \n begin" = "Now, Your project is ready to \n begin";
+"Call Now"="Call Now";
+"Call Later"="Call Later";
+"Profile" = "Profile";
+"Memories Of My Work" = "Memories Of My Work";
+"My Client Reviews" = "My Client Reviews";
+"Rate Me" = "Rate Me";
+"Reviews" = "Reviews";
+"Material" = "Material";
+"Working Hands Price" = "Working Hands Price";
+"Total Price" = "Total Price";
+"The contractor budget contain the price of materials\n and working hands" = "The contractor budget contain the price of materials\n and working hands";
+"Contractor BIO" = "Contractor BIO";
+"View Details" = "View Details";
+"Total price after calculating \n your requires" = "Total price after calculating \n your requires";
+"EGP" = "EGP";
+"Rooms Number"="Rooms Number";
+" Room"=" Room";
+"Add Your Budget"="Add Your Budget";
+
+"Add Budget"="Add Budget";
+"Project Budget"="Project Budget";
+"Write your price for the project materials."="Write your price for the project materials.";
+"Client Budget"="Client Budget";
+"Price your materials"="Price your materials";
+"Pricing"="Pricing";
+"Price Client Material"="Price Client Material";
+"Your prices will be transferred to the client for review."="Your prices will be transferred to the client for review.";
+"Enter price in L.E"="Enter price in L.E";
+"Build Your House" = "Build Your House";
+"Personalize your experience and" = "Personalize your experience and";
+"Get exclusive offers"="Get exclusive offers";
+
+"Accepted" = "Accepted";
+"Canceled" = "Canceled";
+"Waiting" = "Waiting";
+"View Project" = "View Project";
+"Total price after calculating your requires" = "Total price after calculating your requires";
+
+//MARK: -Login
+"Unlock Your Benefits"="Unlock Your Benefits";
+"Email"="Email";
+"Password"="Password";
+"Can’t Remember Your Password"="Can’t Remember Your Password";
+"Login"="Login";
+"Want To Create Your Account"="Want To Create Your Account";
+"Forgot Password"="Forgot Password";
+"Enter The Registration Email"="Enter The Registration Email";
+"Enter your email"="Enter your email";
+"Verify"="Verify";
+"Define yourself"="Define yourself";
+"Create your account based \n on your identity"="Create your account based \n on your identity";
+"Client"="Client";
+"Contractor"="Contractor";
+
+//MARK: - signUP
+"Create Your Account"="Create Your Account";
+"User Name"="User Name";
+"Your Name"="Your Name";
+"Your Email"="Your Email";
+"Phone Number"="Phone Number";
+"Your phone number"="Your phone number";
+"Address"="Address";
+"Your Address"="Your Address";
+"Your Password"="Your Password";
+"Confirm Password"="Confirm Password";
+"Your Confirm Password"="Your Confirm Password";
+"National ID"="National ID";
+"Sign Up"="Sign Up";
+"Proceed to Login"="Proceed to Login";
+
+//MARK: - verify
+"Verify Your Email"="Verify Your Email";
+"Please Enter The Received OTP Code"="Please Enter The Received OTP Code";
+"Enter the 4 Otp Number"="Enter the 4 Otp Number";
+"Resend Code"="Resend Code";
+"Your account is ready to use. \nYou will be redirected to the home page in few seconds."="Your account is ready to use. \nYou will be redirected to the home page in few seconds.";
+
+//MARK: - newPassword
+"New Password"="New Password";
+"Enter New Password"="Enter New Password";
+"Enter Confirm Password"="Enter Confirm Password";
+
+//MARK: -Auth messages
+"Please Enter User Name"="Please Enter User Name";
+"Please Enter a Valid User Name"="Please Enter a Valid User Name";
+"Please Enter Email"="Please Enter Email";
+"Please Enter a Valid Email"="Please Enter a Valid Email";
+"Please Enter Phone"="Please Enter Phone";
+"Please Enter a Valid Phone"="Please Enter a Valid Phone";
+"Please Enter Address"="Please Enter Address";
+"Please Enter Password"="Please Enter Password";
+"Please Enter a Valid Password"="Please Enter a Valid Password";
+"Password and Confirm Password don't Match"="Password and Confirm Password don't Match";
+"Please Enter the code"="Please Enter the code";
+"Please Enter the 4 digit code"="Please Enter the 4 digit code";
+"Please Enter your Password"="Please Enter your Password";
+"Please Enter valid Password at least 8 character"="Please Enter valid Password at least 8 character";
+"Please Enter the Confirm Password"="Please Enter the Confirm Password";
+
+//MARK: -profile
+"User Name Here"="User Name Here";
+"Edit"="Edit";
+"Email address"="Email address";
+"Location Address"="Location Address";
+"Bio"="Bio";
+"Commercial license"="Commercial license";
+"Tax identification"="Tax identification";
+"Work Memories"="Work Memories";
+"No Work Memories Added yet"="No Work Memories Added yet";
+"Delete Account"="Delete Account";
+"No"="No";
+"Added yet"="Added yet";
+
+//MARK: - edit Profile
+"Edit Profile"= "Edit Profile";
+"Profile Image"="Profile Image";
+"Enter your Name"="Enter your Name";
+"Enter your Phone"="Enter your Phone";
+"Choose the file type you want to upload"="Choose the file type you want to upload";
+"Image"="Image";
+"Camera"="Camera";
+"Save Changes"="Save Changes";
+
+//MARK: - edit email
+"Change Email"="Change Email";
+
+
+
+//MARK: - AddProject
+"Project Info" = "Project Info";
+"Flat Details" = "Project Details";
+"Project Image" = "Project Image";
+"project Kind" = "project Kind";
+"Project Area(m²)" = "Project Area(m²)";
+"Project Area" = "Project Area";
+"Location" = "Project Location";
+"From" = "From";
+"To" = "To";
+"Start date" = "Start date";
+"Step 2" = "Step 2";
+"Date" = "Date";
+"Open Budget" = "Open Budget";
+"Add Project" =  "Add Project";
+"Enter The Required Data" = "Enter The Required Data";
+"+  New Room" = "+  New Room";
+"Save " = "Save ";
+"Project location details here" = "Project location details here";
+"Total Budget" = "Total Budget";
+
+"Please select project image" ="Please select project image";
+"Please enter project kind" = "Please enter project kind";
+"Please enter project name" = "Please enter project name";
+"Please enter project area" = "Please enter project area";
+"Please enter project address" = "Please enter project address";
+"Please get project location from map" = "Please get project location from map";
+"Please enter project start budget" = "Please enter project start budget";
+"Please enter project start budget" = "Please enter project start budget";
+"Please choose room zone" = "Please choose room zone";
+"Please enter room length" = "Please enter room length";
+"Please enter room width" ="Please enter room width";
+"Please enter room height" = "Please enter room height";
+"Please choose room material" ="Please choose room material";
+"Please enter room description" = "Please enter room description";
+"Please choose room additions" ="Please choose room additions";
+"Room Added Successfully" = "Room Added Successfully";
+"Updated successufully" = "Updated successufully";
+
+"Edit Project" = "Edit Project";
+"Select Your Favorites Material" = "Select Your Favorites Material";
+"Material Name" = "Material Name";
+
+
+ //MARK: - Add Room
+"Add Room" = "Add Room";
+"Edit Room" = "Edit Room";
+"Room Details" = "Room Details";
+"RoomZone" = "Room Zone";
+"Room Dimensions(M)" = "Room Dimensions(M)";
+"Length" = "Length";
+"Width" = "Width";
+"Height" = "Height";
+"Room Materials" = "Room Materials";
+"Please add Room area" = "Please add Room area";
+"Floor" = "Floor";
+"Cell" = "Ceil";
+"Wall" = "Wall";
+"Room Description" = "Room Description";
+"Tell us more details you would like to add to this room." = "Enter details you would like to add to this room.";
+"Additions" = "Additions";
+"Room Images" = "Room Images";
+"Outlets" = "Outlets";
+"AC Switch" = "AC Switch";
+"Tele Point" = "Tele Point";
+"Data Point" = "Data Point";
+"Water Sink" = "Water Sink";
+"Water Mixer" = "Water Mixer";
+"Toilet Cabinet" = "Toilet Cabinet";
+"Water Mixer" = "Water Mixer";
+"Bath Tub" = "Bath Tub";
+"Water Sink type" = "Water Sink type";
+"Water Mixer type" = "Water Mixer type";
+"Toilet Cabinet type" = "Toilet Cabinet type";
+"Bath Tub type" = "Bath Tub type" ;
+"Outlets type" = "Outlets type";
+"Quantity" = "Quantity";
+"Type" = "Type";
+"Total Price:" = "Total Price:";
+
+//MARK: - cancel PopUp
+"Write your cancelation Reason" = "Write your cancelation Reason";
+"Reason" = "Reason";
+
+//MARK: - location access
+"Location Access Denied" ="Location Access Denied";
+"To use this feature, please enable location access in Settings." = "To use this feature, please enable location access in Settings.";
+"Settings" ="Settings";
+"+ New Room" = "+ New Room";
+"You are out of budget" = "You are out of budget";
+"Add " = "Add ";
+
+

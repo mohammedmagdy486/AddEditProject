@@ -1,0 +1,8 @@
+xcassets:
+  inputs:
+    - Proffer/Resources/Assets.xcassets
+  outputs:
+    - templateName: swift5
+      output: Proffer/Resources/SwiftGen/AssetsColors.swift
+
+

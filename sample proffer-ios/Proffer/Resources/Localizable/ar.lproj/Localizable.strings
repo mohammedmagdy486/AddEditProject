@@ -1,0 +1,372 @@
+/*
+ Localizable.strings
+ 
+ //
+ //  Created by AMN on 15/02/2024.
+ //  Copyright © 2024 Nura. All rights reserved.
+ 
+ */
+//MARK:- General
+"Loading..."="تحميل...";
+"Done"="تم";
+"Success" = "تم بنجاح";
+"Error" = "خطأ";
+//MARK: - static Pages
+"About Us"="معلومات عنا";
+"Privacy Policy"="سياسة الخصوصية";
+"Terms & Conditions"="الشروط والأحكام ";
+
+//MARK: - Contact US
+"Contact Us"="اتصل بنا";
+"What's Your Needs?!"="ما هي احتياجاتك؟!";
+"Tell us about your requires or inquires"="أخبرنا باحتياجاتك أو استفساراتك";
+"Complaint Title"="نوع المشكلة";
+"Title of complaint"="عنوان الشكوى";
+"Complaint Details"="الرسالة ";
+"Title of complaint & Details"="عنوان الشكوى والتفاصيل";
+"Send"="ارسال";
+"Your message was sent successfully."="تم ارسال رسالتك بنجاح.";
+"Well Done!"="أحسنت!";
+"Please Enter your Name"="Please Enter your Name";
+"Please Enter your Email"="Please Enter your Email";
+"Please Enter Your Message"="Please Enter Your Message";
+
+//MARK: - Change Password
+"Change Password"= "تغيير كلمة المرور";
+"Personalize your experience"="إضفاء الطابع الشخصي على تجربتك";
+"Old Password"="كلمة المرور القديمة";
+"New Password"="كلمة المرور الجديدة";
+"Confirm New Password"="تأكيد كلمة المرور الجديدة";
+"Save"="حفظ";
+"Your password was changed successfully."="تم تغيير كلمة المرور بنجاح.";
+
+ //MARK: - change password vm
+"Please Enter your Old Password"="Please Enter your Old Password";
+"Please Enter your New Password"="Please Enter your New Password";
+"Please Enter valid Password maximum 6 numbers or letters"="Please Enter valid Password maximum 6 numbers or letters";
+"Please Enter your Confirm New Password"="Please Enter your Confirm New Password";
+"New Password and Confirm New Password don't match"="New Password and Confirm New Password don't match";
+"Your Password has been Changed Successfully"="Your Password has been Changed Successfully";
+
+//MARK: - setting
+"Setting"="اعدادات الحساب";
+"Notification"="الاشعارات";
+"Language"="لغة";
+
+//MARK: - change Language
+"Change Language"="تغيير اللغة";
+"Please select the language.."="برجاء اختيار اللغة..";
+
+//MARK: - FAQ
+"FAQ"="الاسئلة الشائعة ";
+"No questions yet"="لا توجد اسئلة شائعة بعد.";
+
+//MARK: - More
+"Your Profile"="الملف الشخصي ";
+"Pending Projects"="مشاريع منتظرة ";
+"Reviews"="Reviews";
+"Settings"="اعدادات الحساب";
+"Log Out"="تسجيل خروج";
+"Confirm Your Action!"="تأكيد اختيارك!";
+"Are You Sure you want to log out from your account?!"="هل أنت متأكد أنك تريد تسجيل الخروج من حسابك؟!";
+"Confirm"="تأكيد ";
+
+//MARK: - Tab Bar
+"Home"="الرئيسية";
+"Projects"="المشاريع";
+"Bids"="العطاءات";
+"More"="المزيد";
+
+//MARK: - Projects
+"Current"="المشاريع الحالية";
+"History"="سجل المشاريع";
+" LE"=" ج.م";
+"Waiting for Accepting"="في انتظار القبول";
+"In progress"="جارٍ العمل";
+"Done Successfully"="تمت بنجاح";
+"Canceled"="ألغيت";
+//"Add Project"="أضف المشروع";
+"No Projects Added yet"="لا توجد مشاريع مضافة بعد.";
+"M"="م²";
+"New Projects"="المشاريع الجديدة";
+"See All"="عرض المزيد";
+"Wellcome,"="مرحباً،";
+"Present Your Work"="اعرض أعمالك";
+"Clients want to know more about your skills "="يريد العملاء معرفة المزيد عن مهاراتك ";
+"Complete it"="أكمل بياناتك";
+"Current Projects"="المشاريع الحالية";
+"No Current Projects yet"="لا توجد مشاريع حالية بعد.";
+"Top Contractors"="أفضل المقاولين ";
+"No results yet."="لا توجد نتائج بعد.";
+"Private Project" = "مشروع خاص";
+"Public Project" = "مشروع عام";
+"Your Project Type"="نوع مشروعك";
+"Define Your Project Type"="حدد نوع مشروعك";
+
+//MARK: - rate Project
+"Ratting"="التقييم";
+"What's your rate?!"="ما هو تقييمك؟!";
+"Comment"="تعليق";
+"Add Your Comments Here"="أضف تعليقك هنا";
+"Thanks For Your Ratting" = "شكرًا على \n تقييمك";
+
+//MARK: - project details
+
+"Price"="السعر";
+"Flat Area"="المساحة ";
+"Day"="يوم";
+"Duration"="مدة";
+"Project Area"="مساحة المشروع";
+"Project Budget"="ميزانية المشروع";
+"From:"="من:";
+"To:"="إلى:";
+"Rooms Numbers"="عدد الغرف";
+"Rooms"="الغرف";
+"Cancel"="الغاء";
+"Complete"="انهاء";
+"Rate The Service"="قيم الخدمة";
+"Are You Sure you want to cancel your project?!"="هل أنت متأكد أنك تريد إلغاء مشروعك؟!";
+"Congratulations!"="تهانينا!";
+"Your project was completed successfully."="تم إكمال مشروعك بنجاح.";
+"Rate Our Service"="قيم خدمتنا";
+"Rate It In Anther Time"="قيم في وقت آخر";
+
+//MARK: -  upload image
+"Upload it in format \n PNG, JPG, JPEG" = "تحميل بالتنسيق \n PNG ، JPG ، JPEG";
+
+//MARK: -notifications
+"Notifications"="الاشعارات";
+"Un Read"="غير مقروء";
+"Old"="قديم";
+"Details"="تفاصيل";
+
+//MARK: - Bids
+"Filter Your Bids" = "قم بتصفية عروض المقاولين";
+"Filter Your Bids Based on your\n Prefers." = "قم بتصفية عروض الأسعار بناءً على \n تفضيلاتك.";
+"Project Name" = "اسم المشروع";
+"Filter By Rate" = "تصفية حسب التقييم";
+"Filter By Price" = "تصفية حسب السعر";
+"Accept" = "قبول ";
+"Bid" = "عطاء";
+"Project Details" = "تفاصيل المشروع";
+"Area" = "منطقة";
+"Contractor Budget" = "سعر المقاول";
+"Market Budget" = "أسعار السوق";
+"Now, Your project is ready to \n begin" = "الآن، مشروعك جاهز \n للبدء";
+"Call Now" = "اتصل الان";
+"Call Later" = "اتصل لاحقا";
+"Profile" = "الملف الشخصي";
+"Memories Of My Work" = "سجل أعمالى";
+"My Client Reviews" = "آراء العملاء";
+"Rate Me" = "قيمنى";
+"Reviews" = "آراء";
+"Material" = "المواد";
+"Working Hands Price" = "سعر اليد العاملة";
+"Total Price" = "السعر الكلي";
+"The contractor budget contain the price of materials and working hands" = "سعر المقاول يشمل سعر المواد والأيد العاملة";
+"Contractor BIO" = "نبذه عن المقاول";
+"View Details" = "عرض التفاصيل";
+"Total price after calculating \n your requires" = "السعر الإجمالي بعد حساب \n احتياجاتك";
+"EGP" = "ج.م";
+"Rooms Number"="عدد الغرف";
+" Room"=" غرفة";
+"Add Your Budget"="أضف ميزانيتك";
+
+"Add Budget"="أضف ميزانيتك";
+"Project Budget"="ميزانية المشروع";
+"Write your price for the project materials."="اكتب السعر الخاص بك لمواد المشروع.";
+"Client Budget"="ميزانية العميل";
+"Price your materials"="قم بتسعير المواد";
+"Pricing"="التسعير";
+"Price Client Material"="تسعير خامات العميل";
+"Your prices will be transferred to the client for review."="سيتم تحويل الأسعار الخاصة بك إلى العميل للمراجعة.";
+"Enter price in L.E"="أدخل السعر بـ ج.م";
+"Build Your House" = "صمم منزلك";
+"Personalize your experience and" = "خصص تجربتك";
+"Get exclusive offers"="واحصل على عروص حصرية";
+
+"Accepted" = "مقبولة";
+"Waiting" = "في الانتظار";
+"View Project" = "عرض المشروع";
+"Total price after calculating\n your requires" = "السعر الكلي بعد حساب طلباتك";
+//MARK: -Login
+"Unlock Your Benefits"="استفد من خدماتنا المميزة";
+"Email"="البريد الإلكتروني";
+"Password"="كلمة المرور";
+"Can’t Remember Your Password"="لا يمكنك تذكر كلمة المرور";
+"Login"="تسجيل الدخول";
+"Want To Create Your Account"="أنشئ حسابك";
+"Forgot Password"="هل نسيت كلمة المرور؟";
+"Enter The Registration Email"="أدخل البريد الإلكتروني";
+"Enter your email"="أدخل بريدك الإلكتروني";
+"Verify"="تأكيد";
+"Define yourself"="حدد هويتك";
+"Create your account based \n on your identity"="أنشئ حسابك بناءً \n على هويتك";
+"Client"="عميل";
+"Contractor"="مقاول";
+
+//MARK: - signUP
+"Create Your Account"="أنشئ حسابك";
+"User Name"="اسم المستخدم";
+"Your Name"="اسمك";
+"Your Email"="البريد الإلكتروني";
+"Phone Number"="رقم الهاتف";
+"Your phone number"="رقم الهاتف";
+"Address"="عنوان";
+"Your Address"="العنوان";
+"Your Password"="كلمة المرور";
+"Confirm Password"="تأكيد كلمة المرور";
+"Your Confirm Password"="تأكيد كلمة المرور";
+"National ID"="بطاقة الرقم القومي ";
+"Sign Up"="اشتراك";
+"Proceed to Login"="تسجيل الدخول ";
+
+//MARK: - verify
+"Verify Your Email"="تأكيد البريد الألكتروني";
+"Please Enter The Received OTP Code"="الرجاء إدخال الرمز المستلم";
+"Enter the 4 Otp Number"="أدخل الكود المكون من 4 ارقام ";
+"Resend Code"="أعد إرسال الرمز";
+"Your account is ready to use. \nYou will be redirected to the home page in few seconds."="حسابك جاهز للاستخدام. \n ستتم إعادة توجيهك إلى الصفحة الرئيسية خلال ثوانٍ قليلة.";
+
+//MARK: - newPassword
+"New Password"="كلمة المرور الجديدة";
+"Enter New Password"="أدخل كلمة مرور جديدة";
+"Enter Confirm Password"="أدخل تأكيد كلمة المرور";
+
+//MARK: -Auth messages
+"Please Enter User Name"="Please Enter User Name";
+"Please Enter a Valid User Name"="Please Enter a Valid User Name";
+"Please Enter Email"="Please Enter Email";
+"Please Enter a Valid Email"="Please Enter a Valid Email";
+"Please Enter Phone"="Please Enter Phone";
+"Please Enter a Valid Phone"="Please Enter a Valid Phone";
+"Please Enter Address"="Please Enter Address";
+"Please Enter Password"="Please Enter Password";
+"Please Enter a Valid Password"="Please Enter a Valid Password";
+"Password and Confirm Password don't Match"="Password and Confirm Password don't Match";
+"Please Enter the code"="Please Enter the code";
+"Please Enter the 4 digit code"="Please Enter the 4 digit code";
+"Please Enter your Password"="Please Enter your Password";
+"Please Enter valid Password at least 8 character"="Please Enter valid Password at least 8 character";
+"Please Enter the Confirm Password"="Please Enter the Confirm Password";
+
+//MARK: -profile
+"User Name Here"="اسم المستخدم هنا";
+"Edit"="تعديل";
+"Email address"="البريد الإلكتروني";
+"Location Address"="الموقع الجغرافي";
+"Bio"="نبذه";
+"Commercial license"="السجل التجاري ";
+"Tax identification"="الملف الضريبي";
+"Work Memories"="سجل الاعمال";
+"No Work Memories Added yet"="لا يوجد سجل أعمل مضاف بعد ";
+"Delete Account"="حذف الحساب";
+"No"="لا";
+"Added yet"="أضيفت بعد";
+
+//MARK: - edit Profile\
+"Edit Profile"= "تعديل الملف الشخصي";
+"Profile Image"="صورة الملف الشخصية";
+"Enter your Name"="ادخل اسمك";
+"Enter your Phone"="ادخل رقم الهاتف";
+"Choose the file type you want to upload"= "اختر نوع الملف المراد تحميله";
+"Image"="صورة";
+"Camera"="كاميرا";
+"Save Changes"="حفظ التغييرات";
+
+//MARK: - edit email
+"Change Email"="تغيير البريد الإلكتروني";
+
+
+//MARK: - AddProject
+"Project Info" = "معلومات المشروع";
+"Flat Details" = "تفاصيل المشروع";
+"Project Image" = "صورة المشروع";
+"project Kind" = "نوع المشروع";
+"Project Area(m²)" = "مساحة المشروع(م²)";
+"Project Area" = "مساحة المشروع";
+"Location" = "موقع المشروع";
+"From" = "من";
+"To" = "الى";
+"Start date" = "تاريخ البدء";
+"Step 2" = "الخطوة 2";
+"Date" = "تاريخ";
+"Open Budget" = "ميزانية مفتوحة";
+"Add Project" =  "إضافة مشروع";
+"Enter The Required Data" = "أدخل البيانات المطلوبة";
+"+  New Room" = "+ غرفة جديدة";
+"Save " = "حفظ ";
+"Project location details here" = "تفاصيل الموقع الجغرافي هنا";
+"Total Budget" = "الميزانية الكلية";
+
+"Please select project image" = "برجاء اختيار صورة للمشروع";
+"Please enter project kind" = "برجاء تحديد نوع المشروع ";
+"Please enter project name" = "برجاء ادحال اسم المشروع";
+"Please enter project area" = "برجاء تحديد مساحة المشروع ";
+"Please enter project address" = "برجاء ادخال عنوان المشروع ";
+"Please get project location from map" = "برجاء تحديد مكان المشروع على الخريطة";
+"Please enter project start budget" = "برجاء تحديد اقل ميزانية للمشروع ";
+"Please choose room zone" = "برجاء اختيار نوع الغرفة ";
+"Please enter room length" = "برجاء ادخال طول الغرفة";
+"Please enter room width" ="برجاء ادخال عرض الغرفة";
+"Please enter room height" = "برجاء ادخال ارتفاع الغرفة";
+"Please choose room material" ="برجاء تحديد خامات العرفة";
+"Please enter room description" = "برجاء ادخال وصف الغرفة";
+"Please choose room additions" ="برجاء اختيار اضافات للغرفة";
+"Room Added Successfully" = "تم اضافة الغرفة بنجاح";
+"Updated successufully" = "تم التعديل بنجاح";
+
+"Edit Project" = "تعديل المشروع";
+"Clear" = "مسح";
+"Material Name" = "اسم الخامات";
+"Select Your Favorites Material" = "برجاء تحديد الخامات المفضلة";
+
+
+//MARK: - Add Room
+"Add Room" = "إضافة غرفة";
+"Edit Room" = "تعديل غرفة";
+"Room Details" = "تفاصيل الغرفة";
+"RoomZone" = "نوع الغرفة";
+"Room Dimensions(M)" = "أبعاد الغرفة(م)";
+"Length" = "طول";
+"Width" = "عرض";
+"Height" = "إرتفاع";
+"Room Materials" = "مادة الغرفة";
+"Please add Room area" = "برجاء إضافة مساحة الغرفة";
+"Floor" = "أرضية";
+"Cell" = "سقف";
+"Wall" = "حائط";
+"Room Description" = "وصف الغرفة";
+"Tell us more details you would like to add to this room." = "أدخل التفاصيل التي ترغب في إضافتها إلى هذه الغرفة.";
+"Additions" = "إضافات";
+"Room Images" = "صور الغرفة";
+"Outlets" = "منافذ";
+"AC Switch" = "مفتاح تيار متردد";
+"Tele Point" = "نقطة الاتصال";
+"Data Point" = "نقطة البيانات";
+"Water Sink" = "حوض ماء";
+"Water Mixer" = "خلاط ماء";
+"Toilet Cabinet" = "خزانة المرحاض";
+"Bath Tub" = "حوض استحمام";
+"Water Sink type" = "نوع حوض الماء";
+"Water Mixer type" = "نوع خلاط الماء";
+"Toilet Cabinet type" = "نوع خزانة المرحاض";
+"Bath Tub type" =  "نوع حوض الاستحمام";
+"Outlets type" = "نوع المنافذ";
+"Quantity" = "الكمية";
+"Type" = "النوع";
+"Total Price:" = "السعر الكلي:";
+
+//MARK: - cancel PopUp
+"Write your cancelation Reason" = "اكتب سبب الالغاء";
+"Reason" = "السبب";
+
+
+//MARK: - location access
+"Settings" ="الإعدادات";
+"Location Access Denied" = "تم رفض السماح بالوصول للموقع";
+"To use this feature, please enable location access in Settings." = "لاستخدام هزة الميزة يجب السماح بالوصول للموقع من خلال الإعدادات";
+"+ New Room" = "+ غرفة جديدة";
+"You are out of budget" = "لقد استنفدت الميزانية المحددة";
+"Add " = "أضافة ";
+ 
